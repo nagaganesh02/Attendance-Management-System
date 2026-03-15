@@ -12,13 +12,13 @@ python -m venv venv
 venv\Scripts\Activate.ps1
 > You'll see `(venv)` appear in your terminal when activation is successful.
 
-##  INSTALL DEPENDENCIES
+### INSTALL DEPENDENCIES
 
 After activating the virtual environment, install all required packages:
 pip install opencv-python opencv-contrib-python numpy pandas pillow
 
 
-##  VERIFY INSTALLATION
+###  VERIFY INSTALLATION
 
 Check if all dependencies are installed correctly:
 pip freeze
@@ -32,17 +32,17 @@ pillow==12.1.1
 python-dateutil==2.9.0.post0
 six==1.17.0
 
-## RUN THE PROJECT
+### RUN THE PROJECT
 python app.py
 > This command starts the Attendance Management System.
 
-## ALTERNATIVE METHOD (Without Virtual Environment)
+### ALTERNATIVE METHOD (Without Virtual Environment)
 
 If you don't want to use a virtual environment, you can directly install dependencies:
 pip install opencv-python opencv-contrib-python numpy pandas pillow
 python app.py
 
-## CONTACT
+### CONTACT
 
 For any doubts or assistance:
 
