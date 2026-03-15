@@ -1,11 +1,8 @@
-
-# Attendance Management System
-
-## 📁 PROJECT NAVIGATION
+### PROJECT NAVIGATION
 cd 4-1p
 > The project files are inside the `4-1p` folder. Make sure to navigate into this folder before running any commands.
 
-## 🔧 VIRTUAL ENVIRONMENT SETUP
+### VIRTUAL ENVIRONMENT SETUP
 
 ### Create Virtual Environment (First time only)
 python -m venv venv
